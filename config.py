@@ -1,0 +1,13 @@
+# coding=utf-8
+
+NAO_IP = "Your IP"
+NAO_PORT = 9559
+NAO_AUDIO_FILE = ""
+LOCAL_AUDIO_FILE = ""
+NAO_USERNAME = ""
+NAO_PASSWORD = ""
+TEXT_FILE = ""
+DURATION = 4  # 录音时长（秒）
+DATA_FOLDER = r''
+CONFIDENCE_THRESHOLD = 70
+
